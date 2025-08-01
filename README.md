@@ -2,10 +2,7 @@
 
 This project was developed as part of the **Shell–Edunet Foundation Green Skills AICTE Internship** focused on leveraging **AI technologies for environmental challenges**. Over a 4-week guided mentorship program, I independently built a predictive model to classify fire types using MODIS satellite data.
 
-<p align="center">
-  <img src="Screenshot%202025-08-01%20180718.png" alt="Fire Type Classification UI" width="700"/>
-</p>
-
+<img src="Title_img.png" alt="Title image" width="1000" height="600"/>
 ---
 
 ## 📌 Internship Context
@@ -77,7 +74,7 @@ streamlit run app.py
 ```
 ## 📸 UI Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](UI_preview.png)
 
 ## 🧑‍💻 Author
 Chiranjeevi Sai Moka
